@@ -1,16 +1,17 @@
 <?php include 'header.php';?>
 <div class="clearfix">&nbsp;</div>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Two Column Layout</title>
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
    
 </head>
 <body>
-    <h1>Psychology Facts App </h1>
+    <h1 class="head">Psychology Facts App </h1>
 <div class="container1">
     <div class="content">
         <h2>Psychology Facts App </h2>
@@ -31,7 +32,7 @@
         </a>
     </div>
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/Psycological 1 .png" alt="Duck Luck App">
     </div>
 </div>
 <div class="container">
@@ -57,7 +58,10 @@
         <h3>Psychology Facts App
            </h3>
         <p>"Dive into a treasure trove of mind-bending revelations and delve deep into the complexities of human behavior with the Psychology Facts app."</p>
-        <p>Embark on a captivating journey of discovery with the Psychology Facts app, where each feature is designed to unravel the enigmatic world of the human mind. Immerse yourself in a rich tapestry of psychological insights, from intriguing tidbits about cognitive biases to profound revelations about the subconscious. Engage with interactive quizzes that challenge your perception and expand your knowledge of mental processes. Explore a diverse range of topics, including emotions, memory, and social psychology, presented in bite-sized snippets that make learning both engaging and enlightening. With daily updates and curated content, the Psychology Facts app is your companion on a quest for greater self-awareness and a deeper understanding of the complexities that shape human behavior.
+        <p>
+        
+
+        Embark on a captivating journey of discovery with the Psychology Facts app, where each feature is designed to unravel the enigmatic world of the human mind. Immerse yourself in a rich tapestry of psychological insights, from intriguing tidbits about cognitive biases to profound revelations about the subconscious. Engage with interactive quizzes that challenge your perception and expand your knowledge of mental processes. Explore a diverse range of topics, including emotions, memory, and social psychology, presented in bite-sized snippets that make learning both engaging and enlightening. With daily updates and curated content, the Psychology Facts app is your companion on a quest for greater self-awareness and a deeper understanding of the complexities that shape human behavior.
 
         </p>
      
@@ -66,12 +70,12 @@
         
     </div>
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/Psycology 2.png" alt="Duck Luck App">
     </div>
 </div>
 <div class="container1">
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/Psycology 3.png" alt="Duck Luck App">
     </div>
     <div class="content">
         <h2>How Psychology Facts 
@@ -79,13 +83,15 @@
         <h3><i>Follow these easy steps!</i></h3>
         <p>
             "Unlock the mysteries of the mind and enhance your understanding of human behavior through engaging content in the Psychology Facts app."
-</p>
-<ul class="points">
+         </p>
+        <ul class="points">
             <li>1. <b> Download Psychology Facts App✨</b></li>
             <li>2.<b> Check Interesting Facts That Blow Your Mind etc. </b></li>
             <li>3.<b> And Share On Instagram/Watsapp etc👍</b></li>
           </ul>  
+        
     </div>
+  
 </div>
 <div class="container">
     <div class="content1">
@@ -95,7 +101,8 @@
             "Surpassing expectations, the Psychology Facts app garners a surge of downloads, captivating minds worldwide."</h3>
         <p>
             "Step into the fascinating world of psychology with the Psychology Facts app, where each insight unlocks a new dimension of understanding and self-discovery. Download now to enlighten your mind and unravel the mysteries of human behavior."
-            "Join the growing community of curious minds embracing the insights of the Psychology Facts app - download today and embark on a journey of self-discovery and mental exploration."
+            
+         "Join the growing community of curious minds embracing the insights of the Psychology Facts app - download today and embark on a journey of self-discovery and mental exploration."
            
         </p>
         <a href="https://play.google.com/store/apps/details?id=status.maker.psychology.creator.mind.reader" target="_blank">

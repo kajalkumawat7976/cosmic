@@ -1,16 +1,17 @@
 <?php include 'header.php';?>
 <div class="clearfix">&nbsp;</div>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Two Column Layout</title>
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
    
 </head>
 <body>
-    <h1>Angel Oasis App </h1>
+    <h1 class="head">Angel Oasis App </h1>
 <div class="container1">
     <div class="content">
         <h2>Angel Oasis App </h2>
@@ -30,7 +31,7 @@
         </a>
     </div>
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/Angel 1.png" alt="Duck Luck App">
     </div>
 </div>
 <div class="container">
@@ -38,7 +39,8 @@
         <h2>About Angel Oasis App</h2>
         <h3>"Angel Oasis: Your celestial haven for peace, clarity, and divine revelations."</h3>
         <p>
-           "Step into the ethereal realm of Angel Oasis, where tranquility and spiritual enlightenment converge to guide you on a journey of inner peace and divine wisdom. This sacred app serves as your gateway to celestial insights, offering a sanctuary for soulful rejuvenation and harmonious connection with the angelic realm. Immerse yourself in a world of serenity and grace, where gentle whispers of guidance lead you towards profound self-discovery and alignment with your higher purpose. Let Angel Oasis envelop you in its celestial embrace, transforming your spiritual path with profound clarity and heavenly blessings."
+           
+         "Step into the ethereal realm of Angel Oasis, where tranquility and spiritual enlightenment converge to guide you on a journey of inner peace and divine wisdom. This sacred app serves as your gateway to celestial insights, offering a sanctuary for soulful rejuvenation and harmonious connection with the angelic realm. Immerse yourself in a world of serenity and grace, where gentle whispers of guidance lead you towards profound self-discovery and alignment with your higher purpose. Let Angel Oasis envelop you in its celestial embrace, transforming your spiritual path with profound clarity and heavenly blessings."
         </p>
         <ul class="points">
             <li> - Angel Prayers✔</li>
@@ -55,7 +57,8 @@
             App</h3>
         <p>"Dive into a realm of serenity and enlightenment with Angel Oasis App's transformative celestial offerings."</p>
         <p>
-           "Prepare to embark on a celestial journey like no other with Angel Oasis App's extraordinary key features. From personalized angelic guidance to daily spiritual insights, immerse yourself in a realm of serenity and enlightenment. Explore harmonious energies, receive intuitive wisdom, and connect with your inner divine essence. With powerful tools for manifestation, angelic communication, and energy healing, Angel Oasis App is your gateway to a realm of peace, clarity, and spiritual transformation.
+           
+         "Prepare to embark on a celestial journey like no other with Angel Oasis App's extraordinary key features. From personalized angelic guidance to daily spiritual insights, immerse yourself in a realm of serenity and enlightenment. Explore harmonious energies, receive intuitive wisdom, and connect with your inner divine essence. With powerful tools for manifestation, angelic communication, and energy healing, Angel Oasis App is your gateway to a realm of peace, clarity, and spiritual transformation.
 
         </p>
      
@@ -63,19 +66,20 @@
         
     </div>
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/Angel 2.png" alt="Duck Luck App">
     </div>
 </div>
 <div class="container1">
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/Angel3.png" alt="Duck Luck App">
     </div>
     <div class="content">
         <h2>How Angel Oasis
             App Works?</h2>
         <h3><i>Follow these easy steps!</i></h3>
         <p>
-           "Elevate your spiritual journey with a single tap - Download Angel Oasis App and unlock divine serenity within."</p>
+           
+        "Elevate your spiritual journey with a single tap - Download Angel Oasis App and unlock divine serenity within."</p>
         <ul class="points">
             <li>1. <b> Download Angel Oasis App✨</b></li>
             <li>2.<b> Check Healing Sound/ guardian Angel etc. </b></li>

@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Two Column Layout</title>
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
    
 </head>
 <body>
-    <h1>Duck Luck App </h1>
+    <h1 class="head">Duck Luck App </h1>
 <div class="container1">
     <div class="content">
         <h2>Duck Luck App </h2>
@@ -33,7 +33,7 @@
         </a>
     </div>
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/draw  luck 1.png" alt="Duck Luck App">
     </div>
 </div>
 <div class="container">
@@ -66,12 +66,12 @@
         
     </div>
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/Draw luck 2.png" alt="Duck Luck App">
     </div>
 </div>
 <div class="container1">
     <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App">
+        <img src="images/draw luck 3.png" alt="Duck Luck App">
     </div>
     <div class="content">
         <h2>How Duck Luck  App Works?</h2>
@@ -92,7 +92,9 @@
         <h2>Download Duck Luck App</h2>
         <h3>
             "Dive into serendipity with a single click - Download Duck Luck App and let the waves of fortune unfold!"</h3>
-        <p>"Duck Luck app brings a splash of whimsical charm to your fingertips, guiding you through a world of delightful surprises and auspicious adventures. Immerse yourself in the quirkiness of fate, where every feathered step leads to unexpected treasures and joyful discoveries. Embrace the enchantment of Duck Luck and let serendipity waddle alongside you on your journey to good fortune."
+        <p>
+            
+         "Duck Luck app brings a splash of whimsical charm to your fingertips, guiding you through a world of delightful surprises and auspicious adventures. Immerse yourself in the quirkiness of fate, where every feathered step leads to unexpected treasures and joyful discoveries. Embrace the enchantment of Duck Luck and let serendipity waddle alongside you on your journey to good fortune."
         </p>
         <a href="https://play.google.com/store/apps/details?id=free.numerology.calculator.app.best&hl=en_IN" target="_blank">
             <img src="images/play_store_product.webp" alt="Download on Play Store" class="play-store-img"/>

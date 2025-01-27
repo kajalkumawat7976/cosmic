@@ -6,10 +6,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Two Column Layout</title>
-    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
   </head>
   <body>
-    <h1>MP3 Song App</h1>
+    <h1 class="head">MP3 Song App</h1>
     <div class="container1">
       <div class="content">
         <h2>MP3 Song App</h2>
@@ -48,7 +48,7 @@
         </a>
       </div>
       <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App" />
+        <img src="images/Mp3 song 1 (2).png" alt="Duck Luck App" />
       </div>
     </div>
     <div class="container">
@@ -112,12 +112,12 @@
         </p>
       </div>
       <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App" />
+        <img src="images/Mp3 song 2.png" alt="Duck Luck App" />
       </div>
     </div>
     <div class="container1">
       <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App" />
+        <img src="images/Mp3 song 3.png" alt="Duck Luck App" />
       </div>
       <div class="content">
         <h2>How MP3 Song - Cutter & Joiner App Works?</h2>

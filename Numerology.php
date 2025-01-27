@@ -6,13 +6,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Two Column Layout</title>
-    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
   </head>
   <body>
-    <h1>Numerology App</h1>
+    <h1 class="head">Numerology App</h1>
     <div class="container1">
       <div class="content">
-        <h2>Numerology App App</h2>
+        <h2>Numerology App</h2>
         <h3>
             Unravel Mysteries
         </h3>
@@ -38,7 +38,7 @@
         </a>
       </div>
       <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App" />
+        <img src="images/Numerology 1 .png" alt="Duck Luck App" />
       </div>
     </div>
     <div class="container">
@@ -74,12 +74,12 @@
         </p>
       </div>
       <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App" />
+        <img src="images/Numerology 2.png" alt="Duck Luck App" />
       </div>
     </div>
     <div class="container1">
       <div class="image-container">
-        <img src="your-image-url.jpg" alt="Duck Luck App" />
+        <img src="images/Numerology 3.png" alt="Duck Luck App" />
       </div>
       <div class="content">
         <h2>How Numerology - Unravel Mysteries App Works?</h2>
@@ -121,4 +121,5 @@
     </div>
   </body>
 </html>
+
 <?php include 'footer.php';?>
